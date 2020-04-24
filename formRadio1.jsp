@@ -7,7 +7,7 @@
 <section>
 <h2>JSPform</h2>
 <section>
-<h2>선택 성별: <%=request.getParameter("gender")%><br/</h2>
+<h2>선택 성별: <%=request.getParameter("gender")%><br/></h2>
 </section>
 </section>
 </body></html>
