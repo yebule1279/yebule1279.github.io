@@ -7,8 +7,8 @@
 <section>
 <h2>JSPform</h2>
 <section>
-<h2>아이디:<%=request.getParameter("namex")%><br/</h2>
-<h2>패스워드:<%=request.getParameter("passx")%><br/</h2>
+<h2>아이디:<%=request.getParameter("namex")%><br/></h2>
+<h2>패스워드:<%=request.getParameter("passx")%><br/></h2>
 </section>
 </section>
 </body></html>
