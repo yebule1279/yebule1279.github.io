@@ -7,7 +7,7 @@
 <section>
 <h2>JSPform</h2>
 <section>
-<h2>시간: <%=request.getParameter("mealtime")%><br/</h2>
+<h2>시간: <%=request.getParameter("mealtime")%><br/></h2>
 <% String [] uMeal=request.getParameterValues("meal"); %>
 <h2>식사: 
 <%
