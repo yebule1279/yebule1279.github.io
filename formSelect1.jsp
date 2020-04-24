@@ -7,8 +7,8 @@
 <section>
 <h2>JSPform</h2>
 <section>
-<h2>시간: <%=request.getParameter("mealtime")%><br/</h2>
-<h2>식사: <%=request.getParameter("meal")%><br/</h2>
+<h2>시간: <%=request.getParameter("mealtime")%><br/></h2>
+<h2>식사: <%=request.getParameter("meal")%><br/></h2>
 </section>
 </section>
 </body></html>
