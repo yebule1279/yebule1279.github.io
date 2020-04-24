@@ -7,7 +7,7 @@
 <section>
 <h2>JSPform</h2>
 <section>
-<h2>서치입력어: <%=request.getParameter("searchKeyword")%><br/</h2>
+<h2>서치입력어: <%=request.getParameter("searchKeyword")%><br/></h2>
 </section>
 </section>
 </body></html>
