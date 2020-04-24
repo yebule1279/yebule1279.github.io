@@ -7,8 +7,8 @@
 <section>
 <h2>JSPform</h2>
 <section>
-<h2>이름: <%=request.getParameter("namex")%><br/</h2>
-<h2>이메일: <%=request.getParameter("emailx")%><br/</h2>
+<h2>이름: <%=request.getParameter("namex")%><br/></h2>
+<h2>이메일: <%=request.getParameter("emailx")%><br/></h2>
 </section>
 </section>
 </body></html>
