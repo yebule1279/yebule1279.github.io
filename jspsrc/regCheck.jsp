@@ -11,7 +11,7 @@
 비밀번호: <%=request.getParameter("stud_passwd")%><br/></h2>
 <h2>성별/취미</h2>
 <h2>성별: <%=request.getParameter("stud_gender")%>, 
-취미: <% String [] uHobby = request.getParameterValues("stud_hooby"); %>
+취미: <% String [] uHobby = request.getParameterValues("stud_hobby"); %>
 <%
 if(uHobby==null){out.println("입력내용없음");
 }else{
